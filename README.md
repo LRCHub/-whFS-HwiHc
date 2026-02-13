@@ -1,0 +1,84 @@
+# IZ*ONE (아이즈원) – AYAYAYA
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Da ra da da da da
+Da ra da da da da
+눈이 부셔 내가 걷는 이 길
+(눈이 부셔)
+나를 비춰 저 화려한 불빛 Ay ay
+천천히 하나씩 하나씩
+뭐가 그리 성급해
+보여줄게 너를 위한 Runway ay ay
+조금 더 자신 있게
+당당한 내 Walking 집중되는 눈길
+한 발짝 더 걸어가
+Ayayayayaya ya uh uh
+지금부터 새로워진 날 보여줄 테니
+감탄해봐 (Uh) 잘 지켜봐 (Uh uh)
+아름다운 네 Melody
+나만 들리게 가까이 속삭여봐
+봐 Ah ah yeah (Woo yeah)
+귓가에 들린 종소리
+운명처럼 넌 내게 빠져
+Falling down 아득해져
+모두 다 Eyes on me
+망설이지 말고 Hush
+(Da ra da da da da)
+Ayayayayaya hush
+(Da ra da da da da)
+깊게 빠져들어
+(Da ra da da da da)
+뭔 말이 필요해 Hush hush
+내게로 Hush
+(Da ra da da da hush)
+떠들썩한 공기
+(Yeah yeah yeah yeah)
+틀림없이 나를 위한
+축제인 걸 Yeah
+내가 가는 곳이면 어디든지 무대야
+주인공이 돼 주인공이 돼
+Yeah eh 모두가 날 주목하게
+(Focus on me now)
+높아지는 볼륨이
+네 마음속 끌림을 설명할 증거
+어쩔 수가 없을걸
+Ayayayayaya ya (I ya)
+두근대는 네 심장이
+터질 것 같이 빨라져 가지 Oh
+더 아득해져
+모두 다 Eyes on me
+망설이지 말고 Hush
+(Da ra da da da da)
+Ayayayayaya hush
+(Da ra da da da da)
+깊게 빠져들어
+(Da ra da da da da)
+더 가까이 와봐 Hush hush
+내게로 Hush
+(Da ra da da da hush)
+오로지 나만의 Show
+숨죽여 지켜봐 Hush
+Hush Hush
+Hush Hush
+Hush Woo
+짜여진 시나리오
+그대론 재미없어
+더욱더 새로워져 가는 내일의 날
+기대해봐
+망설이지 말고 Hush
+더 깊게 빠져들어 빠져들어 Hush
+저 Spotlight 눈이 부셔
+Ayayayayaya hush
+더 깊게 빠져들어 빠져들어 Hush
+멈추지 마 점점 빠져들어 Hush
+(Da ra da da da da)
+Ayayayayaya hush
+(Da ra da da da da)
+깊게 빠져들어
+(Da ra da da da da)
+넌 내게 이끌려 Hush hush
+내게로 Hush
+(Da ra da da da hush)
+```
