@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "AYAYAYA",
+  "base_artist": "IZ*ONE (아이즈원)",
+  "createdAt": "2026-02-13T19:48:54.722501Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AYAYAYA",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/01_AYAYAYA_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley feat. Skepta, JME & Ms D",
+      "has_synced": true,
+      "path": "select/02_Can_You_Hear_Me__(Ayayaya)_Wiley_feat._Skepta,_JME_&_Ms_D.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley feat. Skepta & Ms D",
+      "has_synced": false,
+      "path": "select/03_Can_You_Hear_Me__(Ayayaya)_Wiley_feat._Skepta_&_Ms_D.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AYAYAYA",
+      "artist": "IZ*ONE (아이즈원)",
+      "has_synced": true,
+      "path": "select/04_AYAYAYA_IZ_ONE_(아이즈원).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can You Hear Me (Ayayaya)",
+      "artist": "Wiley feat. Skepta",
+      "has_synced": true,
+      "path": "select/05_Can_You_Hear_Me_(Ayayaya)_Wiley_feat._Skepta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley feat. Skepta, Jme & Ms D",
+      "has_synced": true,
+      "path": "select/06_Can_You_Hear_Me__(Ayayaya)_Wiley_feat._Skepta,_Jme_&_Ms_D.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley",
+      "has_synced": true,
+      "path": "select/07_Can_You_Hear_Me__(Ayayaya)_Wiley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley feat. Skepta , JME (2) & Ms D",
+      "has_synced": true,
+      "path": "select/08_Can_You_Hear_Me__(Ayayaya)_Wiley_feat._Skepta_,_JME_(2)_&_Ms_D.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley",
+      "has_synced": true,
+      "path": "select/09_Can_You_Hear_Me__(Ayayaya)_Wiley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ayayaya (Prayer Chant)",
+      "artist": "Praiz Singz",
+      "has_synced": true,
+      "path": "select/10_Ayayaya_(Prayer_Chant)_Praiz_Singz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley feat. Skepta, JME & Ms D",
+      "has_synced": true,
+      "path": "select/11_Can_You_Hear_Me__(Ayayaya)_Wiley_feat._Skepta,_JME_&_Ms_D.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can You Hear Me (Ayayaya)",
+      "artist": "Wiley feat. Skepta & Jme & Ms D",
+      "has_synced": true,
+      "path": "select/12_Can_You_Hear_Me_(Ayayaya)_Wiley_feat._Skepta_&_Jme_&_Ms_D.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley/Skepta/Jme/Ms D",
+      "has_synced": true,
+      "path": "select/13_Can_You_Hear_Me__(Ayayaya)_Wiley_Skepta_Jme_Ms_D.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can You Hear Me (Ayayaya) (Ft Skepta, Jme & Ms D)",
+      "artist": "Wiley",
+      "has_synced": true,
+      "path": "select/14_Can_You_Hear_Me_(Ayayaya)_(Ft_Skepta,_Jme_&_Ms_D)_Wiley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya) [ft. Skepta, JME & Ms D]",
+      "artist": "Wiley",
+      "has_synced": true,
+      "path": "select/15_Can_You_Hear_Me__(Ayayaya)_[ft._Skepta,_JME_&_Ms_D]_Wiley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya)",
+      "artist": "Wiley; Skepta; Jme; Ms D",
+      "has_synced": true,
+      "path": "select/16_Can_You_Hear_Me__(Ayayaya)_Wiley;_Skepta;_Jme;_Ms_D.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (ayayaya) [feat. Skepta, JME & Ms D]",
+      "artist": "Wiley",
+      "has_synced": true,
+      "path": "select/17_Can_You_Hear_Me__(ayayaya)_[feat._Skepta,_JME_&_Ms_D]_Wiley.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Can You Hear Me? (Ayayaya) (feat. Skepta, JME & Ms D)",
+      "artist": "Wiley;Skepta;JME;Ms D",
+      "has_synced": true,
+      "path": "select/18_Can_You_Hear_Me__(Ayayaya)_(feat._Skepta,_JME_&_Ms_D)_Wiley;Skepta;JME;Ms_D.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AYAYAYA",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_AYAYAYA_IZ_ONE.txt"
+    }
+  ]
+}
